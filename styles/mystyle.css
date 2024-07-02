@@ -1,0 +1,41 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color:rgb(243, 233, 218);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-align: center;
+}
+#page{
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: #bfa475;
+    height: 600px ;
+}
+#heading /* Styles for Heading */{
+    padding: 5px;
+    background-color: #655035;
+    text-align: center;
+}
+img{
+    border:double 10px white;
+}
+.list{
+    color: #333300;
+}
+#right-column{
+    float: right;
+    width: 400px;
+    text-align: left;
+    color: #333300;
+}
+#left-column{
+    float: left;
+    text-align: center;
+    width: 400px;
+    margin-left:0px;
+}
+h1{color:white}
+h2{color:black}
+h3{color:white}
